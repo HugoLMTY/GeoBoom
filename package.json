@@ -10,7 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "three": "^0.172.0"
+    "@tweenjs/tween.js": "^25.0.0",
+    "gsap": "^3.12.7",
+    "three": "^0.172.0",
+    "vite-plugin-string": "^1.2.3"
   },
   "devDependencies": {
     "vite": "^6.0.11"
